@@ -1,2 +1,2 @@
-# 3rd-party
-Components/drivers for integrating OpenMotics in 3rd party soft- and hardware
+# 3rd Party integration
+Components, drivers and others for integrating OpenMotics into 3rd party soft- and hardware
